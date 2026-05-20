@@ -1,4 +1,5 @@
-﻿Student[] students = new Student[10];
+//вариант 1
+Student[] students = new Student[10];
 
 for (int i = 0; i < students.Length; i++)
 {
